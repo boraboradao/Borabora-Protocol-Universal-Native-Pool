@@ -1,3 +1,11 @@
+# Introduction
+
+Open liquidity is a key adjustment in BoraBora V2.Anyone can become a liquidity provider without permission to obtain income. Users can provide liquidity by purchasing BFLP using the assets allowed by the liquidity pool. LP tokens are minted when a buy order is completed and burned when sold . The LP token price is calculated by dividing the LP pool value by the total LP supply. After purchasing LP tokens, users can stake these tokens to earn protocol revenue and other token rewards.
+
+<img width="416" alt="image" src="https://github.com/boraboradao/BoraboraV2/assets/103490210/4786b5c5-b015-4e2c-bb1d-19396921ede9">
+
+
+
 # Requirement
 
 ```
